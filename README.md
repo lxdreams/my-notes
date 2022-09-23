@@ -1,2 +1,0 @@
-# my-notes
-notes

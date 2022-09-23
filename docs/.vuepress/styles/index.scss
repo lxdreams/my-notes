@@ -1,0 +1,108 @@
+@font-face{
+    font-family: 'bobohei';
+    src : url('/font/BOBOHEI-2.otf');
+}
+
+
+@media (min-width:959px){
+    .home.project{
+        background: url(/img/bg.svg)  no-repeat;
+    }
+}
+
+#main-content > header > div > p.actions{
+    margin-left: -10px;
+}
+.home.project{
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.home.project .hero h1{
+    font-family:'bobohei';
+}
+.home.project .features{
+    max-width: 100%;
+    padding: 0 5rem;
+    margin: 0;
+    border-top: none;
+}
+.theme-hope-content.custom{
+    padding: 0 5rem;
+}
+.home.project .hero .action-button.primary{
+    color: #FFF;
+    font-family: 'bobohei';
+}
+.home.project .feature h2{
+    font-family: 'bobohei';
+}
+.navbar .site-name{
+    font-family: 'bobohei';
+}
+.home.project h2{
+    border-bottom: none;
+}
+h1,h2{
+    font-family: 'bobohei';
+}
+
+.navbar .nav-item > .nav-link{
+    font-family: 'bobohei';
+}
+.home.project .hero .description{
+    font-size: 1rem;
+    font-family: 'bobohei';
+}
+.home.project .hero{
+    max-width: 100%;
+    height:735px;
+}
+.home.project{
+    background-size: contain;
+    background-repeat: no-repeat;
+    top: 0;
+    width: 100%;
+
+}
+
+.home.project .feature p{
+    font-weight:600;
+}
+
+.home.project .hero img{
+    margin: 50px auto 0;
+    max-height: 440px;
+}
+
+.home.project .hero {
+    display: block;
+    text-align: center;
+}
+
+.home.project .hero .description{
+    max-width:100%;
+    font-size: 13px;
+}
+// .theme-hope-content img {
+//     border-radius: 11px;
+//     box-shadow: 2px 2px 22px #ffffffff, -2px -2px 22px #ffffffff;
+// }
+//
+// .home .features .feature p{
+//     height:145px;
+// }
+//
+// .navbar a, .navbar span, .navbar img{
+//     display: inline-flex;
+// }
+//
+// .home .hero .action-button.primary, .home .hero .action-button:hover{
+//     color: #FFF;
+// }
+//
+//
+// .navbar a, .navbar span, .navbar img{
+//     display: inline-flex;
+// }
