@@ -7,7 +7,7 @@ heroText:
 tagline: 为简化调试API而生
 actions:
       - text: 🚀 快速上手
-        link: /guide/getstarted/start
+        link: /ds/mysql/home
         type: primary
 features:
 - title: 基于原生
@@ -107,7 +107,6 @@ head:
 * [x] 临时请求保存支持
 * [x] url尾缀支持
 * [x] ......
-
 
 <div style="height:30px"></div>
 
